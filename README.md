@@ -1,8 +1,15 @@
-<h1>Hi! Welcome</h1>
-<p>I'm Matheus Bloize, a chill frontend developer based in Recife, Brazil.</p>
-<p>I'm on my journey to become a great developer.</p>
-<p>I currently have experience with frontend, but I'm actually studying java.</p>
-<p>I like to take a healthy routine with good habits and dedicate myself every day to evolve through effort and constancy.</p>
+# Hi! Welcome
+🇺🇸  
+I'm Matheus Bloize, a chill frontend developer based in Recife, Brazil.  
+I'm on my journey to become a great developer.  
+I currently have experience with frontend, but I'm actually studying Java.  
+I like to take a healthy routine with good habits and dedicate myself every day to evolve through effort and constancy.  
+  
+🇧🇷  
+Eu sou o Matheus Bloize, um desenvolvedor frontend tranquilo que mora em Recife, Brasil.  
+Estou em minha jornada para me tornar um grande desenvolvedor.  
+Atualmente possuo experiência em frontend, mas atualmente estou estudando Java.  
+Eu gosto de levar uma rotina saudável com bons hábitos e me dedicar todos os dias para evoluir através de esforço e constância.
 
 ## Skills 💻
 
