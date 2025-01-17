@@ -1,30 +1,25 @@
-# Hi! Welcome
-🇺🇸  
-I'm Matheus Bloize, a chill frontend developer based in Recife, Brazil.  
-I'm on my journey to become a great developer.  
-I currently have experience with frontend, but I'm actually studying Java.  
-I like to take a healthy routine with good habits and dedicate myself every day to evolve through effort and constancy.  
-  
-🇧🇷  
-Eu sou o Matheus Bloize, um desenvolvedor frontend tranquilo que mora em Recife, Brasil.  
-Estou em minha jornada para me tornar um grande desenvolvedor.  
-Atualmente possuo experiência em frontend, mas atualmente estou estudando Java.  
-Eu gosto de levar uma rotina saudável com bons hábitos e me dedicar todos os dias para evoluir através de esforço e constância.
+# 👋 Hi, I'm Matheus!
 
-## Skills 💻
+**`Fullstack Developer`**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23131315.svg?style=for-the-badge&logo=javascript&logoColor=%23fbfafb)
-![TypeScript](https://img.shields.io/badge/typescript-%23131315.svg?style=for-the-badge&logo=typescript&logoColor=%23fbfafb)
-![React.js](https://img.shields.io/badge/react-%23131315.svg?style=for-the-badge&logo=react&logoColor=%23fbfafb)
-![Next.js](https://img.shields.io/badge/Next-%23131315?style=for-the-badge&logo=next.js&logoColor=%23fbfafb)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23131315.svg?style=for-the-badge&logo=tailwindcss&logoColor=%23fbfafb)
-![Git](https://img.shields.io/badge/git-%23131315.svg?style=for-the-badge&logo=git&logoColor=%23fbfafb)
-![GitHub](https://img.shields.io/badge/github-%23131315.svg?style=for-the-badge&logo=github&logoColor=%23fbfafb)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23131315.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23fbfafb)
+- 🚀 I'm looking for work at an amazing company
+- 👨🏻‍💻 I have experience with **React.js**, **Next.js**, **TypeScript** and **Angular**
+- 🌱 I'm currently learning **C#**
+- 📫 How to reach me: 
+**[LinkedIn](https://www.linkedin.com/in/matheus-bloize), [Instagram](https://instagram.com/matheus.bloize)**
 
-## Social 📱
+---
 
-<div> 
-  <a href="https://www.linkedin.com/in/matheus-bloize" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-131315?style=for-the-badge&logo=linkedin&logoColor=fbfafb" target="_blank"></a> 
-  <a href="https://instagram.com/matheus.bloize" target="_blank"><img src="https://img.shields.io/badge/Instagram-131315?style=for-the-badge&logo=instagram&logoColor=fbfafb" target="_blank"></a>
-</div>
+### 💻 Tech Tools
+
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
