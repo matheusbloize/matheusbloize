@@ -3,10 +3,11 @@
 **`Fullstack Developer`**
 
 - 🚀 I'm looking for work at an amazing company
-- 👨🏻‍💻 I have experience with **React.js**, **Next.js**, **Angular**, **TypeScript** and **JavaScript**
-- 🌱 I'm currently learning **Spring Boot** (**Java**)
+- 👨🏻‍💻 I have experience with **React.js**, **Next.js**, **Angular**, **TypeScript**, **JavaScript**, **C#**, **.NET**, **HTML**, **CSS**, **SQL Databases** and **NoSQL Databases**.
+- 🌱 I'm currently learning **.NET** (**C#**)
 - 📫 How to reach me: 
 **[LinkedIn](https://www.linkedin.com/in/matheus-bloize), [Instagram](https://instagram.com/matheus.bloize)**
+- 💻 My Website/Portfolio: **[Check it out](https://matheusbloize.com/)**
 
 ---
 
@@ -17,6 +18,8 @@
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+<img align="left" alt="DotNet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
